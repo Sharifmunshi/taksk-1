@@ -1,0 +1,152 @@
+body {
+    font-family: 'poppins', sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+    color: white;
+}
+
+.para {
+    color: whitesmoke;
+}
+
+.donate-now {
+    background-color: red;
+    border: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+div {
+    text-align: center;
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: red;
+    padding: 15px 20px;
+    border-radius: 10px;
+}
+
+.box {
+    background-image: url(images/donation7.jpg);
+    padding: 150px;
+    margin: 0px;
+
+}
+
+.donate {
+    margin-bottom: 40px;
+}
+
+.amount {
+    margin-top: 40px;
+}
+
+.amount a {
+    text-decoration: none;
+    border: 0px;
+    background-color: aliceblue;
+    color: black;
+    margin: 4px;
+    padding: 17px 10px;
+    border-radius: 5px;
+}
+
+.other-amount {
+    margin: top 40px;
+    color: skyblue;
+    font-size: 12px;
+    padding-top: 60px;
+}
+
+.amount p {}
+
+.horizontal-row {
+    color: black;
+}
+
+.button-two {
+    background-color: red;
+    border: 1px solid red;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.plan {
+    color: black;
+}
+
+.container {
+    display: flex;
+    text-align: justif;
+
+}
+
+.food {
+    background-color: aquamarine;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 10px;
+
+}
+
+.child {
+    background-color: wheat;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.shelter {
+    background-color: antiquewhite;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.container-1 {
+    display: flex;
+}
+
+.boro {
+    color: black;
+}
+
+.raza {
+
+    height: 1500px;
+    width: 500px;
+    padding: 50px;
+}
+
+.read {
+
+    height: 1500px;
+    width: 500px;
+    padding: 50px;
+}
+
+.div {
+    display: flex;
+}
+
+.final-button {
+    text-decoration: none;
+    background-color: red;
+    padding: 15px 20px;
+    border-radius: 10px;
+}
+
+.footer {
+    text-align: center;
+    background-color: black;
+}
+
+.humble {
+    color: brown;
+    padding-top: 10px;
+    padding-bottom: 14px;
+}
